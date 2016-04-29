@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertatiodepy00cramgoog_0007.png"; bbox 0 0 4537 5463; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1040 1359 3143 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1040 1359 3143 1552">
+     <span class='ocr_line' id='line_1_1' title="bbox 1040 1359 3143 1552; baseline 0 -43"><span class='ocrx_word' id='word_1_1' title='bbox 1040 1359 3143 1552; x_wconf 76' lang='lat' dir='ltr'>Pythagoras</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 250 1910 3932 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 250 1910 3932 2052">
+     <span class='ocr_line' id='line_1_2' title="bbox 250 1910 3932 2052; baseline 0 -32"><span class='ocrx_word' id='word_1_2' title='bbox 250 1912 1049 2052; x_wconf 83' lang='lat' dir='ltr'><strong>quomodo</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1193 1911 2190 2029; x_wconf 77' lang='lat' dir='ltr'>educaverit</span> <span class='ocrx_word' id='word_1_4' title='bbox 2325 1914 2817 2048; x_wconf 74' lang='lat' dir='ltr'>atque</span> <span class='ocrx_word' id='word_1_5' title='bbox 2946 1910 3932 2029; x_wconf 70' lang='lat' dir='ltr'><strong>instituerit</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1836 2394 2363 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1836 2394 2363 2460">
+     <span class='ocr_line' id='line_1_3' title="bbox 1836 2394 2363 2460; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1836 2394 2363 2460; x_wconf 74' lang='lat' dir='ltr'><strong>adumbravit</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1377 2827 2801 2933">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1377 2827 2801 2933">
+     <span class='ocr_line' id='line_1_4' title="bbox 1377 2827 2801 2933; baseline 0.001 -20"><span class='ocrx_word' id='word_1_7' title='bbox 1377 2829 2152 2916; x_wconf 81' lang='lat' dir='ltr'><strong>Fredericus</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2250 2827 2801 2933; x_wconf 79' lang='lat' dir='ltr'>Cramer,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1658 3007 2541 3086">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1658 3007 2541 3086">
+     <span class='ocr_line' id='line_1_5' title="bbox 1658 3007 2541 3086; baseline -0.005 -18"><span class='ocrx_word' id='word_1_9' title='bbox 1658 3009 1763 3068; x_wconf 75' lang='lat' dir='ltr'>Ph.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1806 3008 1911 3067; x_wconf 85' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1953 3009 2232 3086; x_wconf 68' lang='lat' dir='ltr'><strong>Gymnas.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2275 3007 2541 3067; x_wconf 57' lang='grc' dir='ltr'>διώκοι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1538 5166 4174 5463">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1538 5166 4174 5463">
+     <span class='ocr_line' id='line_1_6' title="bbox 1538 5166 4174 5463; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 1538 5166 4174 5463; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
